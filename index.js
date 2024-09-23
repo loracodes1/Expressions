@@ -8,4 +8,5 @@ heightInCentimeters=180; //the console will return this as the value of heightIn
 //LOOKUP EXPRESSION
 age =32; //assignment expression that returns 32
 age; //type in the assigned name
+console.log(age)
 
