@@ -1,1 +1,1 @@
-9000 +10000
+9000 +10000 //constant expression
